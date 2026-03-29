@@ -1,5 +1,4 @@
 # concrete-sim
-# concrete-sim
 
 Simulation-first autonomous concrete pouring system for controlled fill tasks.
 
